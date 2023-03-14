@@ -1,0 +1,7354 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "握",
+      "attributes": {
+        "label": "握",
+        "x": 399.27664,
+        "y": 15.692197,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "道",
+      "attributes": {
+        "label": "道",
+        "x": 39.647514,
+        "y": 22.993073,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "安",
+      "attributes": {
+        "label": "安",
+        "x": -176.71484,
+        "y": -66.51734,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "村",
+      "attributes": {
+        "label": "村",
+        "x": -121.728485,
+        "y": -44.42357,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "畏",
+      "attributes": {
+        "label": "畏",
+        "x": -155.3191,
+        "y": -8.829063,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "違",
+      "attributes": {
+        "label": "違",
+        "x": 257.72537,
+        "y": -243.04298,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "慰",
+      "attributes": {
+        "label": "慰",
+        "x": -114.71442,
+        "y": 233.42018,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "陰",
+      "attributes": {
+        "label": "陰",
+        "x": -186.26538,
+        "y": -33.5756,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "右",
+      "attributes": {
+        "label": "右",
+        "x": -190.92047,
+        "y": 116.140594,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "鋭",
+      "attributes": {
+        "label": "鋭",
+        "x": 53.622986,
+        "y": 102.33263,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "易",
+      "attributes": {
+        "label": "易",
+        "x": 60.52092,
+        "y": -5.1391134,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "越",
+      "attributes": {
+        "label": "越",
+        "x": -243.9717,
+        "y": 66.57156,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "遠",
+      "attributes": {
+        "label": "遠",
+        "x": 394.36548,
+        "y": 68.315575,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "艶",
+      "attributes": {
+        "label": "艶",
+        "x": -120.606895,
+        "y": -234.18527,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "湖",
+      "attributes": {
+        "label": "湖",
+        "x": -21.884293,
+        "y": -292.72467,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "車",
+      "attributes": {
+        "label": "車",
+        "x": -149.42154,
+        "y": -314.23758,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "応",
+      "attributes": {
+        "label": "応",
+        "x": -187.20258,
+        "y": 207.84361,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "押",
+      "attributes": {
+        "label": "押",
+        "x": -135.61786,
+        "y": 121.05466,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "音",
+      "attributes": {
+        "label": "音",
+        "x": -244.77565,
+        "y": -126.94344,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "穏",
+      "attributes": {
+        "label": "穏",
+        "x": 42.85783,
+        "y": -36.421036,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "化",
+      "attributes": {
+        "label": "化",
+        "x": -27.932087,
+        "y": -9.387865,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "過",
+      "attributes": {
+        "label": "過",
+        "x": -457.13235,
+        "y": 5.868791,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "我",
+      "attributes": {
+        "label": "我",
+        "x": -461.99664,
+        "y": -42.265472,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Loan"
+      }
+    },
+    {
+      "key": "会",
+      "attributes": {
+        "label": "会",
+        "x": 606.6971,
+        "y": 438.2288,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "慌",
+      "attributes": {
+        "label": "慌",
+        "x": 390.04556,
+        "y": 277.1344,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "戒",
+      "attributes": {
+        "label": "戒",
+        "x": -186.56044,
+        "y": -211.19824,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "怪",
+      "attributes": {
+        "label": "怪",
+        "x": -23.053015,
+        "y": -137.81755,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "悔",
+      "attributes": {
+        "label": "悔",
+        "x": 8.038797,
+        "y": -43.94381,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "解",
+      "attributes": {
+        "label": "解",
+        "x": -222.37398,
+        "y": -64.197815,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "潰",
+      "attributes": {
+        "label": "潰",
+        "x": 123.52828,
+        "y": 279.0074,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "外",
+      "attributes": {
+        "label": "外",
+        "x": -167.2453,
+        "y": 213.85068,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "覚",
+      "attributes": {
+        "label": "覚",
+        "x": -34.995285,
+        "y": 187.47101,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "楽",
+      "attributes": {
+        "label": "楽",
+        "x": -401.04456,
+        "y": -170.36732,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "割",
+      "attributes": {
+        "label": "割",
+        "x": -161.25119,
+        "y": 146.80891,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "干",
+      "attributes": {
+        "label": "干",
+        "x": -16.122196,
+        "y": -100.66009,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "堪",
+      "attributes": {
+        "label": "堪",
+        "x": 272.14084,
+        "y": 287.28592,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "間",
+      "attributes": {
+        "label": "間",
+        "x": -139.29167,
+        "y": -122.34251,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "緩",
+      "attributes": {
+        "label": "緩",
+        "x": -125.18491,
+        "y": 17.977892,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "含",
+      "attributes": {
+        "label": "含",
+        "x": 111.613884,
+        "y": -98.88643,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "眼",
+      "attributes": {
+        "label": "眼",
+        "x": 80.26327,
+        "y": -126.59671,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "危",
+      "attributes": {
+        "label": "危",
+        "x": 252.3431,
+        "y": 143.3945,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "忌",
+      "attributes": {
+        "label": "忌",
+        "x": 304.21722,
+        "y": -141.7175,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "既",
+      "attributes": {
+        "label": "既",
+        "x": -94.382645,
+        "y": 79.54149,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "基",
+      "attributes": {
+        "label": "基",
+        "x": -287.24435,
+        "y": 18.367004,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "寄",
+      "attributes": {
+        "label": "寄",
+        "x": 165.29253,
+        "y": 257.566,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "幾",
+      "attributes": {
+        "label": "幾",
+        "x": 34.358948,
+        "y": 174.59154,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "器",
+      "attributes": {
+        "label": "器",
+        "x": 37.188152,
+        "y": -206.42531,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "機",
+      "attributes": {
+        "label": "機",
+        "x": -25.067348,
+        "y": 215.15187,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "偽",
+      "attributes": {
+        "label": "偽",
+        "x": -244.40555,
+        "y": -31.651884,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "疑",
+      "attributes": {
+        "label": "疑",
+        "x": 144.67154,
+        "y": -110.479774,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "逆",
+      "attributes": {
+        "label": "逆",
+        "x": -285.91086,
+        "y": 71.356735,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "急",
+      "attributes": {
+        "label": "急",
+        "x": -120.051636,
+        "y": -255.11348,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "窮",
+      "attributes": {
+        "label": "窮",
+        "x": 98.98215,
+        "y": 353.3055,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "拒",
+      "attributes": {
+        "label": "拒",
+        "x": -266.4039,
+        "y": 64.587845,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "許",
+      "attributes": {
+        "label": "許",
+        "x": -233.94789,
+        "y": 170.87325,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "共",
+      "attributes": {
+        "label": "共",
+        "x": -131.40071,
+        "y": 90.79614,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "挟",
+      "attributes": {
+        "label": "挟",
+        "x": -47.639835,
+        "y": -185.49171,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "恐",
+      "attributes": {
+        "label": "恐",
+        "x": -75.354546,
+        "y": -297.50833,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "稲",
+      "attributes": {
+        "label": "稲",
+        "x": -82.06106,
+        "y": -501.36758,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "恭",
+      "attributes": {
+        "label": "恭",
+        "x": -455.9807,
+        "y": -120.576126,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "胸",
+      "attributes": {
+        "label": "胸",
+        "x": -53.932693,
+        "y": -107.196526,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "強",
+      "attributes": {
+        "label": "強",
+        "x": 74.22548,
+        "y": 327.52014,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "矯",
+      "attributes": {
+        "label": "矯",
+        "x": -205.95049,
+        "y": 144.21082,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "響",
+      "attributes": {
+        "label": "響",
+        "x": 232.06491,
+        "y": 179.66408,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "驚",
+      "attributes": {
+        "label": "驚",
+        "x": 13.298207,
+        "y": -215.65747,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "仰",
+      "attributes": {
+        "label": "仰",
+        "x": 237.50626,
+        "y": -221.7583,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "愚",
+      "attributes": {
+        "label": "愚",
+        "x": 87.52034,
+        "y": 115.76653,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "空",
+      "attributes": {
+        "label": "空",
+        "x": -100.85935,
+        "y": -216.9008,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "掘",
+      "attributes": {
+        "label": "掘",
+        "x": 39.74113,
+        "y": 331.43283,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "経",
+      "attributes": {
+        "label": "経",
+        "x": -224.37198,
+        "y": -145.91048,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "軽",
+      "attributes": {
+        "label": "軽",
+        "x": -145.6143,
+        "y": -212.51564,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "継",
+      "attributes": {
+        "label": "継",
+        "x": 198.7961,
+        "y": 347.22025,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "隙",
+      "attributes": {
+        "label": "隙",
+        "x": -186.53287,
+        "y": -165.09058,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "激",
+      "attributes": {
+        "label": "激",
+        "x": -80.87384,
+        "y": 176.08282,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "見",
+      "attributes": {
+        "label": "見",
+        "x": 272.01263,
+        "y": 177.0719,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "剣",
+      "attributes": {
+        "label": "剣",
+        "x": -201.11885,
+        "y": 14.518156,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "堅",
+      "attributes": {
+        "label": "堅",
+        "x": -74.32472,
+        "y": -239.35493,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "賢",
+      "attributes": {
+        "label": "賢",
+        "x": 353.00555,
+        "y": 120.62349,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "懸",
+      "attributes": {
+        "label": "懸",
+        "x": 18.636253,
+        "y": 371.7932,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "幻",
+      "attributes": {
+        "label": "幻",
+        "x": -167.48161,
+        "y": 181.88037,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "言",
+      "attributes": {
+        "label": "言",
+        "x": -426.39453,
+        "y": -147.77213,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "弦",
+      "attributes": {
+        "label": "弦",
+        "x": -397.47372,
+        "y": -246.58188,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "呼",
+      "attributes": {
+        "label": "呼",
+        "x": 316.98093,
+        "y": -115.00402,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "固",
+      "attributes": {
+        "label": "固",
+        "x": -64.34481,
+        "y": 131.60014,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "股",
+      "attributes": {
+        "label": "股",
+        "x": -254.19106,
+        "y": 151.796,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "枯",
+      "attributes": {
+        "label": "枯",
+        "x": 277.04767,
+        "y": 103.811104,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "硬",
+      "attributes": {
+        "label": "硬",
+        "x": -96.48517,
+        "y": -243.41602,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "今",
+      "attributes": {
+        "label": "今",
+        "x": 34.34246,
+        "y": -292.2951,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Loan"
+      }
+    },
+    {
+      "key": "採",
+      "attributes": {
+        "label": "採",
+        "x": 41.519203,
+        "y": -250.98132,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "済",
+      "attributes": {
+        "label": "済",
+        "x": 15.994016,
+        "y": -186.60231,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "志",
+      "attributes": {
+        "label": "志",
+        "x": -12.837218,
+        "y": -220.08916,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "執",
+      "attributes": {
+        "label": "執",
+        "x": -4.0615845,
+        "y": -264.3048,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "実",
+      "attributes": {
+        "label": "実",
+        "x": -96.3014,
+        "y": -263.9837,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "守",
+      "attributes": {
+        "label": "守",
+        "x": 45.309486,
+        "y": -187.80562,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "取",
+      "attributes": {
+        "label": "取",
+        "x": 16.706125,
+        "y": -256.50845,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "情",
+      "attributes": {
+        "label": "情",
+        "x": -50.395077,
+        "y": -233.04332,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "心",
+      "attributes": {
+        "label": "心",
+        "x": -76.29696,
+        "y": -211.97989,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "早",
+      "attributes": {
+        "label": "早",
+        "x": -54.502785,
+        "y": -332.49707,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Loan"
+      }
+    },
+    {
+      "key": "騒",
+      "attributes": {
+        "label": "騒",
+        "x": 111.182465,
+        "y": -330.2568,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "当",
+      "attributes": {
+        "label": "当",
+        "x": -33.058178,
+        "y": -340.55896,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "腐",
+      "attributes": {
+        "label": "腐",
+        "x": -57.970528,
+        "y": -257.74576,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "聞",
+      "attributes": {
+        "label": "聞",
+        "x": 16.81597,
+        "y": -293.284,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "夢",
+      "attributes": {
+        "label": "夢",
+        "x": -28.71447,
+        "y": -200.51526,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "臨",
+      "attributes": {
+        "label": "臨",
+        "x": 67.65736,
+        "y": -214.54913,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "練",
+      "attributes": {
+        "label": "練",
+        "x": -13.763438,
+        "y": -176.76888,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "誤",
+      "attributes": {
+        "label": "誤",
+        "x": 154.58629,
+        "y": 302.51508,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "向",
+      "attributes": {
+        "label": "向",
+        "x": 21.928862,
+        "y": -86.86698,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "考",
+      "attributes": {
+        "label": "考",
+        "x": -281.76703,
+        "y": -316.88135,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "厚",
+      "attributes": {
+        "label": "厚",
+        "x": -104.748184,
+        "y": -114.29504,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "荒",
+      "attributes": {
+        "label": "荒",
+        "x": 73.74302,
+        "y": -248.8378,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "北",
+      "attributes": {
+        "label": "北",
+        "x": 52.566574,
+        "y": -414.94614,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "降",
+      "attributes": {
+        "label": "降",
+        "x": -85.566956,
+        "y": -78.166176,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "構",
+      "attributes": {
+        "label": "構",
+        "x": 313.90475,
+        "y": 230.46448,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "刻",
+      "attributes": {
+        "label": "刻",
+        "x": -419.44385,
+        "y": -113.22952,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "南",
+      "attributes": {
+        "label": "南",
+        "x": 72.76039,
+        "y": -447.0686,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "混",
+      "attributes": {
+        "label": "混",
+        "x": 346.70618,
+        "y": 179.15628,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "唆",
+      "attributes": {
+        "label": "唆",
+        "x": -35.168293,
+        "y": 63.16705,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "祭",
+      "attributes": {
+        "label": "祭",
+        "x": 48.442707,
+        "y": 366.1873,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "削",
+      "attributes": {
+        "label": "削",
+        "x": 79.47303,
+        "y": 372.2204,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "搾",
+      "attributes": {
+        "label": "搾",
+        "x": -5.2843966,
+        "y": 168.47362,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "参",
+      "attributes": {
+        "label": "参",
+        "x": 6.488804,
+        "y": 197.9117,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "惨",
+      "attributes": {
+        "label": "惨",
+        "x": -37.68742,
+        "y": -60.2463,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "散",
+      "attributes": {
+        "label": "散",
+        "x": -32.890633,
+        "y": 148.82173,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "止",
+      "attributes": {
+        "label": "止",
+        "x": 210.18535,
+        "y": 259.1273,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "伺",
+      "attributes": {
+        "label": "伺",
+        "x": 290.03287,
+        "y": -79.386536,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "思",
+      "attributes": {
+        "label": "思",
+        "x": 294.7365,
+        "y": -1.7597193,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "次",
+      "attributes": {
+        "label": "次",
+        "x": -438.9738,
+        "y": 68.043495,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "治",
+      "attributes": {
+        "label": "治",
+        "x": -127.00109,
+        "y": 169.44221,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "失",
+      "attributes": {
+        "label": "失",
+        "x": -173.91151,
+        "y": -114.06481,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "柔",
+      "attributes": {
+        "label": "柔",
+        "x": -129.33679,
+        "y": -194.91212,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "天",
+      "attributes": {
+        "label": "天",
+        "x": -162.65733,
+        "y": -228.1469,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "唐",
+      "attributes": {
+        "label": "唐",
+        "x": -258.06876,
+        "y": -338.5239,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "熱",
+      "attributes": {
+        "label": "熱",
+        "x": -168.57625,
+        "y": -194.81053,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "捨",
+      "attributes": {
+        "label": "捨",
+        "x": 369.07098,
+        "y": -102.61994,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "弱",
+      "attributes": {
+        "label": "弱",
+        "x": -211.654,
+        "y": 62.95982,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "手",
+      "attributes": {
+        "label": "手",
+        "x": -234.5486,
+        "y": -104.00174,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "趣",
+      "attributes": {
+        "label": "趣",
+        "x": 99.526825,
+        "y": 85.96391,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "愁",
+      "attributes": {
+        "label": "愁",
+        "x": 352.80054,
+        "y": -134.44864,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "醜",
+      "attributes": {
+        "label": "醜",
+        "x": -241.90456,
+        "y": 111.13363,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "出",
+      "attributes": {
+        "label": "出",
+        "x": -203.16983,
+        "y": 195.46495,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "巡",
+      "attributes": {
+        "label": "巡",
+        "x": -92.8541,
+        "y": -154.6533,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "盾",
+      "attributes": {
+        "label": "盾",
+        "x": -433.12485,
+        "y": -74.984795,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "少",
+      "attributes": {
+        "label": "少",
+        "x": 211.18478,
+        "y": 223.88156,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "詳",
+      "attributes": {
+        "label": "詳",
+        "x": 305.76178,
+        "y": 184.86842,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "上",
+      "attributes": {
+        "label": "上",
+        "x": 52.02082,
+        "y": -106.930664,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Ideographic"
+      }
+    },
+    {
+      "key": "身",
+      "attributes": {
+        "label": "身",
+        "x": -55.069653,
+        "y": 226.21036,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "神",
+      "attributes": {
+        "label": "神",
+        "x": 369.82922,
+        "y": 152.10225,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "振",
+      "attributes": {
+        "label": "振",
+        "x": -84.51324,
+        "y": 237.70113,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "震",
+      "attributes": {
+        "label": "震",
+        "x": -232.26918,
+        "y": 140.40205,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "吹",
+      "attributes": {
+        "label": "吹",
+        "x": 144.20505,
+        "y": -78.176674,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "垂",
+      "attributes": {
+        "label": "垂",
+        "x": -228.33218,
+        "y": 37.133915,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "粋",
+      "attributes": {
+        "label": "粋",
+        "x": -196.91449,
+        "y": -132.97528,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "数",
+      "attributes": {
+        "label": "数",
+        "x": -234.95943,
+        "y": 5.9182963,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "正",
+      "attributes": {
+        "label": "正",
+        "x": -83.62453,
+        "y": -31.138988,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "成",
+      "attributes": {
+        "label": "成",
+        "x": 244.8591,
+        "y": 220.71414,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "誠",
+      "attributes": {
+        "label": "誠",
+        "x": -211.61081,
+        "y": -165.55983,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "静",
+      "attributes": {
+        "label": "静",
+        "x": 77.65087,
+        "y": -176.31293,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "惜",
+      "attributes": {
+        "label": "惜",
+        "x": 330.4659,
+        "y": 149.4971,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "責",
+      "attributes": {
+        "label": "責",
+        "x": 116.557076,
+        "y": -164.31615,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "跡",
+      "attributes": {
+        "label": "跡",
+        "x": -120.07306,
+        "y": 144.01714,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "拙",
+      "attributes": {
+        "label": "拙",
+        "x": -141.22885,
+        "y": 188.7302,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "設",
+      "attributes": {
+        "label": "設",
+        "x": 217.17813,
+        "y": 315.55338,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "説",
+      "attributes": {
+        "label": "説",
+        "x": -338.14288,
+        "y": -292.9092,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "浅",
+      "attributes": {
+        "label": "浅",
+        "x": -66.60639,
+        "y": -137.62099,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "洗",
+      "attributes": {
+        "label": "洗",
+        "x": -462.23215,
+        "y": -81.238434,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "潜",
+      "attributes": {
+        "label": "潜",
+        "x": -261.5673,
+        "y": -0.46780792,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "善",
+      "attributes": {
+        "label": "善",
+        "x": -185.14493,
+        "y": 159.96335,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "粗",
+      "attributes": {
+        "label": "粗",
+        "x": 22.7208,
+        "y": 149.37497,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "隣",
+      "attributes": {
+        "label": "隣",
+        "x": -55.334103,
+        "y": -554.52747,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "捜",
+      "attributes": {
+        "label": "捜",
+        "x": 326.338,
+        "y": 70.18255,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "掃",
+      "attributes": {
+        "label": "掃",
+        "x": 186.87064,
+        "y": 289.67136,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "爽",
+      "attributes": {
+        "label": "爽",
+        "x": -216.0782,
+        "y": -25.494593,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "装",
+      "attributes": {
+        "label": "装",
+        "x": 155.15854,
+        "y": 355.8461,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "造",
+      "attributes": {
+        "label": "造",
+        "x": 340.51453,
+        "y": 35.56839,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "促",
+      "attributes": {
+        "label": "促",
+        "x": 15.690848,
+        "y": 121.086105,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "他",
+      "attributes": {
+        "label": "他",
+        "x": 56.05035,
+        "y": -282.3872,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "体",
+      "attributes": {
+        "label": "体",
+        "x": -249.19142,
+        "y": -72.65093,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "大",
+      "attributes": {
+        "label": "大",
+        "x": 57.907047,
+        "y": -68.9395,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "奪",
+      "attributes": {
+        "label": "奪",
+        "x": 117.36842,
+        "y": 54.942333,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "探",
+      "attributes": {
+        "label": "探",
+        "x": 137.41367,
+        "y": 4.041416,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "淡",
+      "attributes": {
+        "label": "淡",
+        "x": 118.68582,
+        "y": -127.048935,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "短",
+      "attributes": {
+        "label": "短",
+        "x": -448.9896,
+        "y": -166.55898,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "断",
+      "attributes": {
+        "label": "断",
+        "x": -368.1958,
+        "y": -278.06226,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "致",
+      "attributes": {
+        "label": "致",
+        "x": -56.716064,
+        "y": 167.9294,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "注",
+      "attributes": {
+        "label": "注",
+        "x": -271.91217,
+        "y": -52.399437,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "懲",
+      "attributes": {
+        "label": "懲",
+        "x": -437.56357,
+        "y": -22.629004,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "直",
+      "attributes": {
+        "label": "直",
+        "x": -166.57744,
+        "y": 63.355812,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "締",
+      "attributes": {
+        "label": "締",
+        "x": -264.8055,
+        "y": -90.34531,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "塗",
+      "attributes": {
+        "label": "塗",
+        "x": -395.30676,
+        "y": -208.05171,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "土",
+      "attributes": {
+        "label": "土",
+        "x": 125.05795,
+        "y": -25.22456,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "灯",
+      "attributes": {
+        "label": "灯",
+        "x": 103.54818,
+        "y": -189.2924,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "同",
+      "attributes": {
+        "label": "同",
+        "x": 91.38988,
+        "y": -37.831463,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "動",
+      "attributes": {
+        "label": "動",
+        "x": -127.19095,
+        "y": -152.7829,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "鈍",
+      "attributes": {
+        "label": "鈍",
+        "x": -66.61219,
+        "y": 202.85034,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "難",
+      "attributes": {
+        "label": "難",
+        "x": -191.40787,
+        "y": 82.01982,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "入",
+      "attributes": {
+        "label": "入",
+        "x": -148.66963,
+        "y": 230.83514,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "破",
+      "attributes": {
+        "label": "破",
+        "x": -174.6765,
+        "y": 29.641922,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "廃",
+      "attributes": {
+        "label": "廃",
+        "x": -159.97119,
+        "y": -155.11232,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "迫",
+      "attributes": {
+        "label": "迫",
+        "x": 11.0313225,
+        "y": 48.96992,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "抜",
+      "attributes": {
+        "label": "抜",
+        "x": 108.54309,
+        "y": -66.436905,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "反",
+      "attributes": {
+        "label": "反",
+        "x": -200.41876,
+        "y": -93.205345,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "板",
+      "attributes": {
+        "label": "板",
+        "x": -261.67914,
+        "y": 33.885345,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "皮",
+      "attributes": {
+        "label": "皮",
+        "x": 137.05899,
+        "y": -147.10033,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "否",
+      "attributes": {
+        "label": "否",
+        "x": -443.39886,
+        "y": 34.26786,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "卑",
+      "attributes": {
+        "label": "卑",
+        "x": 55.24819,
+        "y": 139.80055,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "俵",
+      "attributes": {
+        "label": "俵",
+        "x": 80.67078,
+        "y": -94.92105,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "品",
+      "attributes": {
+        "label": "品",
+        "x": -364.13858,
+        "y": -245.68684,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "浮",
+      "attributes": {
+        "label": "浮",
+        "x": 71.023544,
+        "y": 66.53298,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "舞",
+      "attributes": {
+        "label": "舞",
+        "x": 46.667244,
+        "y": -142.50217,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "風",
+      "attributes": {
+        "label": "風",
+        "x": -281.52655,
+        "y": -21.305113,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "物",
+      "attributes": {
+        "label": "物",
+        "x": -19.043062,
+        "y": 120.51234,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "憤",
+      "attributes": {
+        "label": "憤",
+        "x": -133.65286,
+        "y": 211.2909,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "壁",
+      "attributes": {
+        "label": "壁",
+        "x": -58.021786,
+        "y": 15.056898,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "変",
+      "attributes": {
+        "label": "変",
+        "x": -103.07184,
+        "y": 164.24284,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "方",
+      "attributes": {
+        "label": "方",
+        "x": 91.2216,
+        "y": 11.619541,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "亡",
+      "attributes": {
+        "label": "亡",
+        "x": -54.543945,
+        "y": 95.61801,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "乏",
+      "attributes": {
+        "label": "乏",
+        "x": 144.8098,
+        "y": -48.51828,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "傍",
+      "attributes": {
+        "label": "傍",
+        "x": 90.56442,
+        "y": -149.02542,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "無",
+      "attributes": {
+        "label": "無",
+        "x": -142.26556,
+        "y": -77.370155,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Loan"
+      }
+    },
+    {
+      "key": "命",
+      "attributes": {
+        "label": "命",
+        "x": -216.42462,
+        "y": 181.53,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "癒",
+      "attributes": {
+        "label": "癒",
+        "x": -98.9621,
+        "y": 208.01723,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "優",
+      "attributes": {
+        "label": "優",
+        "x": -168.17757,
+        "y": 106.0781,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "余",
+      "attributes": {
+        "label": "余",
+        "x": 115.85742,
+        "y": 27.740532,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "要",
+      "attributes": {
+        "label": "要",
+        "x": 7.3467727,
+        "y": 87.35275,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "様",
+      "attributes": {
+        "label": "様",
+        "x": -225.2235,
+        "y": 95.01963,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "浴",
+      "attributes": {
+        "label": "浴",
+        "x": -271.32797,
+        "y": 98.21316,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "裸",
+      "attributes": {
+        "label": "裸",
+        "x": -92.808846,
+        "y": 124.57083,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "絡",
+      "attributes": {
+        "label": "絡",
+        "x": 17.470991,
+        "y": -129.18637,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "落",
+      "attributes": {
+        "label": "落",
+        "x": -74.002075,
+        "y": 45.368195,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "竜",
+      "attributes": {
+        "label": "竜",
+        "x": -261.63925,
+        "y": 125.67048,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "輪",
+      "attributes": {
+        "label": "輪",
+        "x": -427.39627,
+        "y": -206.7605,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "漏",
+      "attributes": {
+        "label": "漏",
+        "x": -130.04279,
+        "y": 55.315746,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "虫",
+      "attributes": {
+        "label": "虫",
+        "x": 221.9528,
+        "y": -257.8014,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "眺",
+      "attributes": {
+        "label": "眺",
+        "x": 331.61673,
+        "y": -159.64487,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "跳",
+      "attributes": {
+        "label": "跳",
+        "x": 119.22736,
+        "y": 316.20255,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "定",
+      "attributes": {
+        "label": "定",
+        "x": 288.07327,
+        "y": 70.77921,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "吐",
+      "attributes": {
+        "label": "吐",
+        "x": 372.99008,
+        "y": -68.205,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "曇",
+      "attributes": {
+        "label": "曇",
+        "x": 267.37665,
+        "y": 255.10597,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "忍",
+      "attributes": {
+        "label": "忍",
+        "x": 280.91608,
+        "y": 219.40318,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "認",
+      "attributes": {
+        "label": "認",
+        "x": 318.95642,
+        "y": -189.23647,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "納",
+      "attributes": {
+        "label": "納",
+        "x": 247.44281,
+        "y": 312.64874,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "伴",
+      "attributes": {
+        "label": "伴",
+        "x": 336.31155,
+        "y": -90.115974,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "付",
+      "attributes": {
+        "label": "付",
+        "x": -20.360126,
+        "y": 364.9882,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "怖",
+      "attributes": {
+        "label": "怖",
+        "x": 375.90836,
+        "y": 42.84099,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "赴",
+      "attributes": {
+        "label": "赴",
+        "x": 302.80515,
+        "y": 261.20773,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "沸",
+      "attributes": {
+        "label": "沸",
+        "x": 303.14944,
+        "y": 34.402145,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "紛",
+      "attributes": {
+        "label": "紛",
+        "x": 386.46832,
+        "y": -42.017517,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "蔑",
+      "attributes": {
+        "label": "蔑",
+        "x": 235.15894,
+        "y": 279.19147,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "妨",
+      "attributes": {
+        "label": "妨",
+        "x": 320.7243,
+        "y": 105.497635,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "防",
+      "attributes": {
+        "label": "防",
+        "x": 284.30292,
+        "y": -219.76932,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "謀",
+      "attributes": {
+        "label": "謀",
+        "x": 305.2002,
+        "y": -37.69238,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "本",
+      "attributes": {
+        "label": "本",
+        "x": 363.67014,
+        "y": 80.99043,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Ideographic"
+      }
+    },
+    {
+      "key": "満",
+      "attributes": {
+        "label": "満",
+        "x": 86.94903,
+        "y": 297.78894,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "明",
+      "attributes": {
+        "label": "明",
+        "x": 339.1036,
+        "y": -61.54896,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "迷",
+      "attributes": {
+        "label": "迷",
+        "x": 334.3789,
+        "y": -21.65242,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "黙",
+      "attributes": {
+        "label": "黙",
+        "x": 289.1168,
+        "y": -188.84984,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "湧",
+      "attributes": {
+        "label": "湧",
+        "x": -53.200047,
+        "y": 351.8697,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "誘",
+      "attributes": {
+        "label": "誘",
+        "x": 174.41705,
+        "y": 328.7199,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "憂",
+      "attributes": {
+        "label": "憂",
+        "x": 383.65268,
+        "y": 111.79432,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "葉",
+      "attributes": {
+        "label": "葉",
+        "x": 127.656166,
+        "y": 356.17432,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "留",
+      "attributes": {
+        "label": "留",
+        "x": 0.3147095,
+        "y": 339.89474,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "力",
+      "attributes": {
+        "label": "力",
+        "x": 296.22647,
+        "y": 140.57294,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Pictographic"
+      }
+    },
+    {
+      "key": "戻",
+      "attributes": {
+        "label": "戻",
+        "x": 354.97986,
+        "y": 6.6156726,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Com.Ideographic"
+      }
+    },
+    {
+      "key": "裂",
+      "attributes": {
+        "label": "裂",
+        "x": 379.8029,
+        "y": -12.971597,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "朗",
+      "attributes": {
+        "label": "朗",
+        "x": 337.17847,
+        "y": 206.73763,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "話",
+      "attributes": {
+        "label": "話",
+        "x": 275.5707,
+        "y": -130.73656,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "惑",
+      "attributes": {
+        "label": "惑",
+        "x": 255.3564,
+        "y": -183.50555,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    },
+    {
+      "key": "柄",
+      "attributes": {
+        "label": "柄",
+        "x": 108.409836,
+        "y": -685.2891,
+        "size": 10.0,
+        "color": "#0010aa",
+        "0": "Phonetic"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "握",
+      "target": "道",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36394137144088745
+      }
+    },
+    {
+      "key": "1",
+      "source": "道",
+      "target": "安",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4045025110244751
+      }
+    },
+    {
+      "key": "2",
+      "source": "道",
+      "target": "畏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3872455656528473
+      }
+    },
+    {
+      "key": "3",
+      "source": "道",
+      "target": "違",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3547036349773407
+      }
+    },
+    {
+      "key": "4",
+      "source": "道",
+      "target": "慰",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3681620657444
+      }
+    },
+    {
+      "key": "5",
+      "source": "道",
+      "target": "陰",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39302384853363037
+      }
+    },
+    {
+      "key": "6",
+      "source": "道",
+      "target": "右",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3528922498226166
+      }
+    },
+    {
+      "key": "7",
+      "source": "道",
+      "target": "鋭",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4037795960903168
+      }
+    },
+    {
+      "key": "8",
+      "source": "道",
+      "target": "易",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3799201250076294
+      }
+    },
+    {
+      "key": "9",
+      "source": "道",
+      "target": "越",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3947565257549286
+      }
+    },
+    {
+      "key": "10",
+      "source": "道",
+      "target": "遠",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37123405933380127
+      }
+    },
+    {
+      "key": "11",
+      "source": "道",
+      "target": "艶",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4340597689151764
+      }
+    },
+    {
+      "key": "12",
+      "source": "道",
+      "target": "応",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3541906774044037
+      }
+    },
+    {
+      "key": "13",
+      "source": "道",
+      "target": "押",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37865519523620605
+      }
+    },
+    {
+      "key": "14",
+      "source": "道",
+      "target": "音",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3942919969558716
+      }
+    },
+    {
+      "key": "15",
+      "source": "道",
+      "target": "穏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39032214879989624
+      }
+    },
+    {
+      "key": "16",
+      "source": "道",
+      "target": "化",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3927687704563141
+      }
+    },
+    {
+      "key": "17",
+      "source": "道",
+      "target": "戒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36432862281799316
+      }
+    },
+    {
+      "key": "18",
+      "source": "道",
+      "target": "怪",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35727712512016296
+      }
+    },
+    {
+      "key": "19",
+      "source": "道",
+      "target": "悔",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3789155185222626
+      }
+    },
+    {
+      "key": "20",
+      "source": "道",
+      "target": "解",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3998958468437195
+      }
+    },
+    {
+      "key": "21",
+      "source": "道",
+      "target": "潰",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3549424409866333
+      }
+    },
+    {
+      "key": "22",
+      "source": "道",
+      "target": "外",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37298688292503357
+      }
+    },
+    {
+      "key": "23",
+      "source": "道",
+      "target": "覚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3890344500541687
+      }
+    },
+    {
+      "key": "24",
+      "source": "道",
+      "target": "割",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3727470636367798
+      }
+    },
+    {
+      "key": "25",
+      "source": "道",
+      "target": "干",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39267563819885254
+      }
+    },
+    {
+      "key": "26",
+      "source": "道",
+      "target": "堪",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3688947260379791
+      }
+    },
+    {
+      "key": "27",
+      "source": "道",
+      "target": "間",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38150325417518616
+      }
+    },
+    {
+      "key": "28",
+      "source": "道",
+      "target": "緩",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38322460651397705
+      }
+    },
+    {
+      "key": "29",
+      "source": "道",
+      "target": "含",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37933874130249023
+      }
+    },
+    {
+      "key": "30",
+      "source": "道",
+      "target": "眼",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3681436777114868
+      }
+    },
+    {
+      "key": "31",
+      "source": "道",
+      "target": "危",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35594919323921204
+      }
+    },
+    {
+      "key": "32",
+      "source": "道",
+      "target": "忌",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35223984718322754
+      }
+    },
+    {
+      "key": "33",
+      "source": "道",
+      "target": "既",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3862777650356293
+      }
+    },
+    {
+      "key": "34",
+      "source": "道",
+      "target": "基",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36157944798469543
+      }
+    },
+    {
+      "key": "35",
+      "source": "道",
+      "target": "寄",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3636540174484253
+      }
+    },
+    {
+      "key": "36",
+      "source": "道",
+      "target": "幾",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4100078046321869
+      }
+    },
+    {
+      "key": "37",
+      "source": "道",
+      "target": "器",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3885471522808075
+      }
+    },
+    {
+      "key": "38",
+      "source": "道",
+      "target": "機",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3785846531391144
+      }
+    },
+    {
+      "key": "39",
+      "source": "道",
+      "target": "偽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.410709947347641
+      }
+    },
+    {
+      "key": "40",
+      "source": "道",
+      "target": "疑",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3817569315433502
+      }
+    },
+    {
+      "key": "41",
+      "source": "道",
+      "target": "逆",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3684631586074829
+      }
+    },
+    {
+      "key": "42",
+      "source": "道",
+      "target": "急",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4414163827896118
+      }
+    },
+    {
+      "key": "43",
+      "source": "道",
+      "target": "窮",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36354440450668335
+      }
+    },
+    {
+      "key": "44",
+      "source": "道",
+      "target": "拒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37123480439186096
+      }
+    },
+    {
+      "key": "45",
+      "source": "道",
+      "target": "許",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3546440601348877
+      }
+    },
+    {
+      "key": "46",
+      "source": "道",
+      "target": "共",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38504573702812195
+      }
+    },
+    {
+      "key": "47",
+      "source": "道",
+      "target": "挟",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.41008591651916504
+      }
+    },
+    {
+      "key": "48",
+      "source": "道",
+      "target": "恐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.44953233003616333
+      }
+    },
+    {
+      "key": "49",
+      "source": "道",
+      "target": "胸",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3805478811264038
+      }
+    },
+    {
+      "key": "50",
+      "source": "道",
+      "target": "強",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3552418649196625
+      }
+    },
+    {
+      "key": "51",
+      "source": "道",
+      "target": "矯",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36057162284851074
+      }
+    },
+    {
+      "key": "52",
+      "source": "道",
+      "target": "響",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3607955574989319
+      }
+    },
+    {
+      "key": "53",
+      "source": "道",
+      "target": "驚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4417511522769928
+      }
+    },
+    {
+      "key": "54",
+      "source": "道",
+      "target": "仰",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36801382899284363
+      }
+    },
+    {
+      "key": "55",
+      "source": "道",
+      "target": "愚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4010081887245178
+      }
+    },
+    {
+      "key": "56",
+      "source": "道",
+      "target": "空",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4385014474391937
+      }
+    },
+    {
+      "key": "57",
+      "source": "道",
+      "target": "掘",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35567545890808105
+      }
+    },
+    {
+      "key": "58",
+      "source": "道",
+      "target": "経",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35220953822135925
+      }
+    },
+    {
+      "key": "59",
+      "source": "道",
+      "target": "軽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4223141074180603
+      }
+    },
+    {
+      "key": "60",
+      "source": "道",
+      "target": "継",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3528952896595001
+      }
+    },
+    {
+      "key": "61",
+      "source": "道",
+      "target": "隙",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37921950221061707
+      }
+    },
+    {
+      "key": "62",
+      "source": "道",
+      "target": "激",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3825588822364807
+      }
+    },
+    {
+      "key": "63",
+      "source": "道",
+      "target": "見",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35398054122924805
+      }
+    },
+    {
+      "key": "64",
+      "source": "道",
+      "target": "剣",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3714263439178467
+      }
+    },
+    {
+      "key": "65",
+      "source": "道",
+      "target": "堅",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.434272825717926
+      }
+    },
+    {
+      "key": "66",
+      "source": "道",
+      "target": "賢",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3655467629432678
+      }
+    },
+    {
+      "key": "67",
+      "source": "道",
+      "target": "懸",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35317283868789673
+      }
+    },
+    {
+      "key": "68",
+      "source": "道",
+      "target": "幻",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3742183744907379
+      }
+    },
+    {
+      "key": "69",
+      "source": "道",
+      "target": "呼",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36668506264686584
+      }
+    },
+    {
+      "key": "70",
+      "source": "道",
+      "target": "固",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37981483340263367
+      }
+    },
+    {
+      "key": "71",
+      "source": "道",
+      "target": "股",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3512856066226959
+      }
+    },
+    {
+      "key": "72",
+      "source": "道",
+      "target": "枯",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38478460907936096
+      }
+    },
+    {
+      "key": "73",
+      "source": "道",
+      "target": "誤",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3552956283092499
+      }
+    },
+    {
+      "key": "74",
+      "source": "道",
+      "target": "向",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.41776376962661743
+      }
+    },
+    {
+      "key": "75",
+      "source": "道",
+      "target": "厚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36204850673675537
+      }
+    },
+    {
+      "key": "76",
+      "source": "道",
+      "target": "荒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40310391783714294
+      }
+    },
+    {
+      "key": "77",
+      "source": "道",
+      "target": "降",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3807986080646515
+      }
+    },
+    {
+      "key": "78",
+      "source": "道",
+      "target": "慌",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3781694769859314
+      }
+    },
+    {
+      "key": "79",
+      "source": "道",
+      "target": "硬",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.434272825717926
+      }
+    },
+    {
+      "key": "80",
+      "source": "道",
+      "target": "構",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3677237927913666
+      }
+    },
+    {
+      "key": "81",
+      "source": "道",
+      "target": "今",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.42304253578186035
+      }
+    },
+    {
+      "key": "82",
+      "source": "道",
+      "target": "混",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3527642488479614
+      }
+    },
+    {
+      "key": "83",
+      "source": "道",
+      "target": "唆",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3990137279033661
+      }
+    },
+    {
+      "key": "84",
+      "source": "道",
+      "target": "採",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3835604786872864
+      }
+    },
+    {
+      "key": "85",
+      "source": "道",
+      "target": "済",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4323402941226959
+      }
+    },
+    {
+      "key": "86",
+      "source": "道",
+      "target": "祭",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3530859351158142
+      }
+    },
+    {
+      "key": "87",
+      "source": "道",
+      "target": "削",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3520158529281616
+      }
+    },
+    {
+      "key": "88",
+      "source": "道",
+      "target": "搾",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40044885873794556
+      }
+    },
+    {
+      "key": "89",
+      "source": "道",
+      "target": "参",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3863770365715027
+      }
+    },
+    {
+      "key": "90",
+      "source": "道",
+      "target": "惨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4079245328903198
+      }
+    },
+    {
+      "key": "91",
+      "source": "道",
+      "target": "散",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39943167567253113
+      }
+    },
+    {
+      "key": "92",
+      "source": "道",
+      "target": "止",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.376217246055603
+      }
+    },
+    {
+      "key": "93",
+      "source": "道",
+      "target": "伺",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4031788110733032
+      }
+    },
+    {
+      "key": "94",
+      "source": "道",
+      "target": "志",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39098790287971497
+      }
+    },
+    {
+      "key": "95",
+      "source": "道",
+      "target": "思",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37652134895324707
+      }
+    },
+    {
+      "key": "96",
+      "source": "道",
+      "target": "治",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37037956714630127
+      }
+    },
+    {
+      "key": "97",
+      "source": "道",
+      "target": "失",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3706170916557312
+      }
+    },
+    {
+      "key": "98",
+      "source": "道",
+      "target": "執",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3837294280529022
+      }
+    },
+    {
+      "key": "99",
+      "source": "道",
+      "target": "実",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3983210623264313
+      }
+    },
+    {
+      "key": "100",
+      "source": "道",
+      "target": "捨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3518468141555786
+      }
+    },
+    {
+      "key": "101",
+      "source": "道",
+      "target": "弱",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3730553090572357
+      }
+    },
+    {
+      "key": "102",
+      "source": "道",
+      "target": "手",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3896045386791229
+      }
+    },
+    {
+      "key": "103",
+      "source": "道",
+      "target": "守",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4255436658859253
+      }
+    },
+    {
+      "key": "104",
+      "source": "道",
+      "target": "取",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3859356641769409
+      }
+    },
+    {
+      "key": "105",
+      "source": "道",
+      "target": "趣",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40763479471206665
+      }
+    },
+    {
+      "key": "106",
+      "source": "道",
+      "target": "愁",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3517031669616699
+      }
+    },
+    {
+      "key": "107",
+      "source": "道",
+      "target": "醜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3575582802295685
+      }
+    },
+    {
+      "key": "108",
+      "source": "道",
+      "target": "柔",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4024348855018616
+      }
+    },
+    {
+      "key": "109",
+      "source": "道",
+      "target": "出",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3610979914665222
+      }
+    },
+    {
+      "key": "110",
+      "source": "道",
+      "target": "巡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37415990233421326
+      }
+    },
+    {
+      "key": "111",
+      "source": "道",
+      "target": "少",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36153748631477356
+      }
+    },
+    {
+      "key": "112",
+      "source": "道",
+      "target": "詳",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3511764705181122
+      }
+    },
+    {
+      "key": "113",
+      "source": "道",
+      "target": "上",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3702920079231262
+      }
+    },
+    {
+      "key": "114",
+      "source": "道",
+      "target": "情",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.415890634059906
+      }
+    },
+    {
+      "key": "115",
+      "source": "道",
+      "target": "心",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.42815539240837097
+      }
+    },
+    {
+      "key": "116",
+      "source": "道",
+      "target": "身",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3762287199497223
+      }
+    },
+    {
+      "key": "117",
+      "source": "道",
+      "target": "神",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3505406677722931
+      }
+    },
+    {
+      "key": "118",
+      "source": "道",
+      "target": "振",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3682030737400055
+      }
+    },
+    {
+      "key": "119",
+      "source": "道",
+      "target": "震",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3696866035461426
+      }
+    },
+    {
+      "key": "120",
+      "source": "道",
+      "target": "吹",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39343705773353577
+      }
+    },
+    {
+      "key": "121",
+      "source": "道",
+      "target": "垂",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36682501435279846
+      }
+    },
+    {
+      "key": "122",
+      "source": "道",
+      "target": "粋",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3645505905151367
+      }
+    },
+    {
+      "key": "123",
+      "source": "道",
+      "target": "数",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3880702257156372
+      }
+    },
+    {
+      "key": "124",
+      "source": "道",
+      "target": "正",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38569357991218567
+      }
+    },
+    {
+      "key": "125",
+      "source": "道",
+      "target": "成",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3510436415672302
+      }
+    },
+    {
+      "key": "126",
+      "source": "道",
+      "target": "誠",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3548245131969452
+      }
+    },
+    {
+      "key": "127",
+      "source": "道",
+      "target": "静",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3661890923976898
+      }
+    },
+    {
+      "key": "128",
+      "source": "道",
+      "target": "惜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35234954953193665
+      }
+    },
+    {
+      "key": "129",
+      "source": "道",
+      "target": "責",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3624681234359741
+      }
+    },
+    {
+      "key": "130",
+      "source": "道",
+      "target": "跡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36929866671562195
+      }
+    },
+    {
+      "key": "131",
+      "source": "道",
+      "target": "拙",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3744903802871704
+      }
+    },
+    {
+      "key": "132",
+      "source": "道",
+      "target": "設",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.375704288482666
+      }
+    },
+    {
+      "key": "133",
+      "source": "道",
+      "target": "浅",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3584693968296051
+      }
+    },
+    {
+      "key": "134",
+      "source": "道",
+      "target": "潜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3946177661418915
+      }
+    },
+    {
+      "key": "135",
+      "source": "道",
+      "target": "善",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35783979296684265
+      }
+    },
+    {
+      "key": "136",
+      "source": "道",
+      "target": "粗",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4052562117576599
+      }
+    },
+    {
+      "key": "137",
+      "source": "道",
+      "target": "早",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.45188790559768677
+      }
+    },
+    {
+      "key": "138",
+      "source": "道",
+      "target": "捜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3648281991481781
+      }
+    },
+    {
+      "key": "139",
+      "source": "道",
+      "target": "掃",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35827380418777466
+      }
+    },
+    {
+      "key": "140",
+      "source": "道",
+      "target": "爽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39403337240219116
+      }
+    },
+    {
+      "key": "141",
+      "source": "道",
+      "target": "装",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3592153489589691
+      }
+    },
+    {
+      "key": "142",
+      "source": "道",
+      "target": "騒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40536341071128845
+      }
+    },
+    {
+      "key": "143",
+      "source": "道",
+      "target": "造",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3712151050567627
+      }
+    },
+    {
+      "key": "144",
+      "source": "道",
+      "target": "促",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40127038955688477
+      }
+    },
+    {
+      "key": "145",
+      "source": "道",
+      "target": "他",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4037972092628479
+      }
+    },
+    {
+      "key": "146",
+      "source": "道",
+      "target": "体",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3866712749004364
+      }
+    },
+    {
+      "key": "147",
+      "source": "道",
+      "target": "大",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3881949484348297
+      }
+    },
+    {
+      "key": "148",
+      "source": "道",
+      "target": "奪",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.42121484875679016
+      }
+    },
+    {
+      "key": "149",
+      "source": "道",
+      "target": "探",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39515212178230286
+      }
+    },
+    {
+      "key": "150",
+      "source": "道",
+      "target": "淡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39211174845695496
+      }
+    },
+    {
+      "key": "151",
+      "source": "道",
+      "target": "致",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.396248996257782
+      }
+    },
+    {
+      "key": "152",
+      "source": "道",
+      "target": "虫",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37048712372779846
+      }
+    },
+    {
+      "key": "153",
+      "source": "道",
+      "target": "注",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3798048794269562
+      }
+    },
+    {
+      "key": "154",
+      "source": "道",
+      "target": "眺",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3571334183216095
+      }
+    },
+    {
+      "key": "155",
+      "source": "道",
+      "target": "跳",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3613377511501312
+      }
+    },
+    {
+      "key": "156",
+      "source": "道",
+      "target": "直",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37146303057670593
+      }
+    },
+    {
+      "key": "157",
+      "source": "道",
+      "target": "定",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36059805750846863
+      }
+    },
+    {
+      "key": "158",
+      "source": "道",
+      "target": "締",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37795454263687134
+      }
+    },
+    {
+      "key": "159",
+      "source": "道",
+      "target": "天",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40619802474975586
+      }
+    },
+    {
+      "key": "160",
+      "source": "道",
+      "target": "吐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37868040800094604
+      }
+    },
+    {
+      "key": "161",
+      "source": "道",
+      "target": "土",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3960692882537842
+      }
+    },
+    {
+      "key": "162",
+      "source": "道",
+      "target": "灯",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3529932498931885
+      }
+    },
+    {
+      "key": "163",
+      "source": "道",
+      "target": "当",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4476604461669922
+      }
+    },
+    {
+      "key": "164",
+      "source": "道",
+      "target": "同",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38290706276893616
+      }
+    },
+    {
+      "key": "165",
+      "source": "道",
+      "target": "動",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3770400583744049
+      }
+    },
+    {
+      "key": "166",
+      "source": "道",
+      "target": "鈍",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3812262713909149
+      }
+    },
+    {
+      "key": "167",
+      "source": "道",
+      "target": "曇",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35537081956863403
+      }
+    },
+    {
+      "key": "168",
+      "source": "道",
+      "target": "難",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3596367835998535
+      }
+    },
+    {
+      "key": "169",
+      "source": "道",
+      "target": "入",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3674342632293701
+      }
+    },
+    {
+      "key": "170",
+      "source": "道",
+      "target": "忍",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.359568327665329
+      }
+    },
+    {
+      "key": "171",
+      "source": "道",
+      "target": "認",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35351303219795227
+      }
+    },
+    {
+      "key": "172",
+      "source": "道",
+      "target": "熱",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4145970046520233
+      }
+    },
+    {
+      "key": "173",
+      "source": "道",
+      "target": "納",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35672640800476074
+      }
+    },
+    {
+      "key": "174",
+      "source": "道",
+      "target": "破",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3847692906856537
+      }
+    },
+    {
+      "key": "175",
+      "source": "道",
+      "target": "廃",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39398348331451416
+      }
+    },
+    {
+      "key": "176",
+      "source": "道",
+      "target": "迫",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39246293902397156
+      }
+    },
+    {
+      "key": "177",
+      "source": "道",
+      "target": "抜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40242111682891846
+      }
+    },
+    {
+      "key": "178",
+      "source": "道",
+      "target": "反",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3776899576187134
+      }
+    },
+    {
+      "key": "179",
+      "source": "道",
+      "target": "伴",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3651171922683716
+      }
+    },
+    {
+      "key": "180",
+      "source": "道",
+      "target": "板",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.350726455450058
+      }
+    },
+    {
+      "key": "181",
+      "source": "道",
+      "target": "皮",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3712097704410553
+      }
+    },
+    {
+      "key": "182",
+      "source": "道",
+      "target": "卑",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.402803897857666
+      }
+    },
+    {
+      "key": "183",
+      "source": "道",
+      "target": "俵",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3581147789955139
+      }
+    },
+    {
+      "key": "184",
+      "source": "道",
+      "target": "付",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3576279580593109
+      }
+    },
+    {
+      "key": "185",
+      "source": "道",
+      "target": "怖",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38392123579978943
+      }
+    },
+    {
+      "key": "186",
+      "source": "道",
+      "target": "赴",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37451934814453125
+      }
+    },
+    {
+      "key": "187",
+      "source": "道",
+      "target": "浮",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3983306586742401
+      }
+    },
+    {
+      "key": "188",
+      "source": "道",
+      "target": "腐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4300055503845215
+      }
+    },
+    {
+      "key": "189",
+      "source": "道",
+      "target": "舞",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35865363478660583
+      }
+    },
+    {
+      "key": "190",
+      "source": "道",
+      "target": "風",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3872165381908417
+      }
+    },
+    {
+      "key": "191",
+      "source": "道",
+      "target": "沸",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3709964156150818
+      }
+    },
+    {
+      "key": "192",
+      "source": "道",
+      "target": "物",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3932105004787445
+      }
+    },
+    {
+      "key": "193",
+      "source": "道",
+      "target": "紛",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3534610867500305
+      }
+    },
+    {
+      "key": "194",
+      "source": "道",
+      "target": "憤",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38075488805770874
+      }
+    },
+    {
+      "key": "195",
+      "source": "道",
+      "target": "聞",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4102104604244232
+      }
+    },
+    {
+      "key": "196",
+      "source": "道",
+      "target": "壁",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3900800943374634
+      }
+    },
+    {
+      "key": "197",
+      "source": "道",
+      "target": "蔑",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3552398085594177
+      }
+    },
+    {
+      "key": "198",
+      "source": "道",
+      "target": "変",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3928549289703369
+      }
+    },
+    {
+      "key": "199",
+      "source": "道",
+      "target": "方",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39047181606292725
+      }
+    },
+    {
+      "key": "200",
+      "source": "道",
+      "target": "亡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.389515221118927
+      }
+    },
+    {
+      "key": "201",
+      "source": "道",
+      "target": "乏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4018920063972473
+      }
+    },
+    {
+      "key": "202",
+      "source": "道",
+      "target": "妨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36122509837150574
+      }
+    },
+    {
+      "key": "203",
+      "source": "道",
+      "target": "防",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3588014245033264
+      }
+    },
+    {
+      "key": "204",
+      "source": "道",
+      "target": "傍",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3730704188346863
+      }
+    },
+    {
+      "key": "205",
+      "source": "道",
+      "target": "謀",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36716675758361816
+      }
+    },
+    {
+      "key": "206",
+      "source": "道",
+      "target": "本",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3671611547470093
+      }
+    },
+    {
+      "key": "207",
+      "source": "道",
+      "target": "満",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.352717787027359
+      }
+    },
+    {
+      "key": "208",
+      "source": "道",
+      "target": "無",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3597266674041748
+      }
+    },
+    {
+      "key": "209",
+      "source": "道",
+      "target": "夢",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40120938420295715
+      }
+    },
+    {
+      "key": "210",
+      "source": "道",
+      "target": "命",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3518387973308563
+      }
+    },
+    {
+      "key": "211",
+      "source": "道",
+      "target": "明",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3556283712387085
+      }
+    },
+    {
+      "key": "212",
+      "source": "道",
+      "target": "迷",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37879225611686707
+      }
+    },
+    {
+      "key": "213",
+      "source": "道",
+      "target": "黙",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3719896376132965
+      }
+    },
+    {
+      "key": "214",
+      "source": "道",
+      "target": "癒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3681189715862274
+      }
+    },
+    {
+      "key": "215",
+      "source": "道",
+      "target": "湧",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3709964156150818
+      }
+    },
+    {
+      "key": "216",
+      "source": "道",
+      "target": "誘",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37968167662620544
+      }
+    },
+    {
+      "key": "217",
+      "source": "道",
+      "target": "憂",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3517031669616699
+      }
+    },
+    {
+      "key": "218",
+      "source": "道",
+      "target": "優",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36628958582878113
+      }
+    },
+    {
+      "key": "219",
+      "source": "道",
+      "target": "余",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3900201618671417
+      }
+    },
+    {
+      "key": "220",
+      "source": "道",
+      "target": "要",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4108506441116333
+      }
+    },
+    {
+      "key": "221",
+      "source": "道",
+      "target": "葉",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35361993312835693
+      }
+    },
+    {
+      "key": "222",
+      "source": "道",
+      "target": "様",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37504297494888306
+      }
+    },
+    {
+      "key": "223",
+      "source": "道",
+      "target": "浴",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3536331057548523
+      }
+    },
+    {
+      "key": "224",
+      "source": "道",
+      "target": "裸",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4027881622314453
+      }
+    },
+    {
+      "key": "225",
+      "source": "道",
+      "target": "絡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37919992208480835
+      }
+    },
+    {
+      "key": "226",
+      "source": "道",
+      "target": "落",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3871419429779053
+      }
+    },
+    {
+      "key": "227",
+      "source": "道",
+      "target": "留",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.376217246055603
+      }
+    },
+    {
+      "key": "228",
+      "source": "道",
+      "target": "竜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36130771040916443
+      }
+    },
+    {
+      "key": "229",
+      "source": "道",
+      "target": "力",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35004550218582153
+      }
+    },
+    {
+      "key": "230",
+      "source": "道",
+      "target": "臨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4065456986427307
+      }
+    },
+    {
+      "key": "231",
+      "source": "道",
+      "target": "戻",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3557666540145874
+      }
+    },
+    {
+      "key": "232",
+      "source": "道",
+      "target": "裂",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3565399944782257
+      }
+    },
+    {
+      "key": "233",
+      "source": "道",
+      "target": "練",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4191393256187439
+      }
+    },
+    {
+      "key": "234",
+      "source": "道",
+      "target": "朗",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37732407450675964
+      }
+    },
+    {
+      "key": "235",
+      "source": "道",
+      "target": "漏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37299007177352905
+      }
+    },
+    {
+      "key": "236",
+      "source": "道",
+      "target": "話",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37608471512794495
+      }
+    },
+    {
+      "key": "237",
+      "source": "道",
+      "target": "惑",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37879225611686707
+      }
+    },
+    {
+      "key": "238",
+      "source": "安",
+      "target": "村",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3930329978466034
+      }
+    },
+    {
+      "key": "239",
+      "source": "村",
+      "target": "畏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3786996304988861
+      }
+    },
+    {
+      "key": "240",
+      "source": "村",
+      "target": "慰",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3512656092643738
+      }
+    },
+    {
+      "key": "241",
+      "source": "村",
+      "target": "陰",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3941103518009186
+      }
+    },
+    {
+      "key": "242",
+      "source": "村",
+      "target": "右",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35351070761680603
+      }
+    },
+    {
+      "key": "243",
+      "source": "村",
+      "target": "鋭",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3920917809009552
+      }
+    },
+    {
+      "key": "244",
+      "source": "村",
+      "target": "易",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36341363191604614
+      }
+    },
+    {
+      "key": "245",
+      "source": "村",
+      "target": "越",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3831357955932617
+      }
+    },
+    {
+      "key": "246",
+      "source": "村",
+      "target": "艶",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.41536760330200195
+      }
+    },
+    {
+      "key": "247",
+      "source": "村",
+      "target": "応",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35740429162979126
+      }
+    },
+    {
+      "key": "248",
+      "source": "村",
+      "target": "押",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.368272602558136
+      }
+    },
+    {
+      "key": "249",
+      "source": "村",
+      "target": "音",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.41017061471939087
+      }
+    },
+    {
+      "key": "250",
+      "source": "村",
+      "target": "穏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3767024874687195
+      }
+    },
+    {
+      "key": "251",
+      "source": "村",
+      "target": "化",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3833746016025543
+      }
+    },
+    {
+      "key": "252",
+      "source": "村",
+      "target": "過",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35597866773605347
+      }
+    },
+    {
+      "key": "253",
+      "source": "村",
+      "target": "我",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35368478298187256
+      }
+    },
+    {
+      "key": "254",
+      "source": "村",
+      "target": "戒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3919081389904022
+      }
+    },
+    {
+      "key": "255",
+      "source": "村",
+      "target": "怪",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36131972074508667
+      }
+    },
+    {
+      "key": "256",
+      "source": "村",
+      "target": "悔",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37408125400543213
+      }
+    },
+    {
+      "key": "257",
+      "source": "村",
+      "target": "解",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4031314253807068
+      }
+    },
+    {
+      "key": "258",
+      "source": "村",
+      "target": "外",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35040804743766785
+      }
+    },
+    {
+      "key": "259",
+      "source": "村",
+      "target": "覚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.353277325630188
+      }
+    },
+    {
+      "key": "260",
+      "source": "村",
+      "target": "楽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35932621359825134
+      }
+    },
+    {
+      "key": "261",
+      "source": "村",
+      "target": "割",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3599269688129425
+      }
+    },
+    {
+      "key": "262",
+      "source": "村",
+      "target": "干",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3783860206604004
+      }
+    },
+    {
+      "key": "263",
+      "source": "村",
+      "target": "間",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3936738669872284
+      }
+    },
+    {
+      "key": "264",
+      "source": "村",
+      "target": "緩",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3778088092803955
+      }
+    },
+    {
+      "key": "265",
+      "source": "村",
+      "target": "含",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3509484529495239
+      }
+    },
+    {
+      "key": "266",
+      "source": "村",
+      "target": "眼",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3573485314846039
+      }
+    },
+    {
+      "key": "267",
+      "source": "村",
+      "target": "既",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36607956886291504
+      }
+    },
+    {
+      "key": "268",
+      "source": "村",
+      "target": "基",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38341501355171204
+      }
+    },
+    {
+      "key": "269",
+      "source": "村",
+      "target": "幾",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38546302914619446
+      }
+    },
+    {
+      "key": "270",
+      "source": "村",
+      "target": "器",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3948318660259247
+      }
+    },
+    {
+      "key": "271",
+      "source": "村",
+      "target": "機",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35922151803970337
+      }
+    },
+    {
+      "key": "272",
+      "source": "村",
+      "target": "偽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4023398756980896
+      }
+    },
+    {
+      "key": "273",
+      "source": "村",
+      "target": "疑",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35830363631248474
+      }
+    },
+    {
+      "key": "274",
+      "source": "村",
+      "target": "逆",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36498433351516724
+      }
+    },
+    {
+      "key": "275",
+      "source": "村",
+      "target": "急",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4223502576351166
+      }
+    },
+    {
+      "key": "276",
+      "source": "村",
+      "target": "拒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37610581517219543
+      }
+    },
+    {
+      "key": "277",
+      "source": "村",
+      "target": "許",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3564448654651642
+      }
+    },
+    {
+      "key": "278",
+      "source": "村",
+      "target": "共",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3772697448730469
+      }
+    },
+    {
+      "key": "279",
+      "source": "村",
+      "target": "挟",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3991183042526245
+      }
+    },
+    {
+      "key": "280",
+      "source": "村",
+      "target": "恐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4360610544681549
+      }
+    },
+    {
+      "key": "281",
+      "source": "村",
+      "target": "恭",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3521823287010193
+      }
+    },
+    {
+      "key": "282",
+      "source": "村",
+      "target": "胸",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38021740317344666
+      }
+    },
+    {
+      "key": "283",
+      "source": "村",
+      "target": "矯",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3524380028247833
+      }
+    },
+    {
+      "key": "284",
+      "source": "村",
+      "target": "驚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40213847160339355
+      }
+    },
+    {
+      "key": "285",
+      "source": "村",
+      "target": "愚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3845897614955902
+      }
+    },
+    {
+      "key": "286",
+      "source": "村",
+      "target": "空",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.42215198278427124
+      }
+    },
+    {
+      "key": "287",
+      "source": "村",
+      "target": "経",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3833587169647217
+      }
+    },
+    {
+      "key": "288",
+      "source": "村",
+      "target": "軽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4108366370201111
+      }
+    },
+    {
+      "key": "289",
+      "source": "村",
+      "target": "隙",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3920040726661682
+      }
+    },
+    {
+      "key": "290",
+      "source": "村",
+      "target": "激",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3521486818790436
+      }
+    },
+    {
+      "key": "291",
+      "source": "村",
+      "target": "剣",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37640467286109924
+      }
+    },
+    {
+      "key": "292",
+      "source": "村",
+      "target": "堅",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4378551244735718
+      }
+    },
+    {
+      "key": "293",
+      "source": "村",
+      "target": "幻",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36033400893211365
+      }
+    },
+    {
+      "key": "294",
+      "source": "村",
+      "target": "言",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37486138939857483
+      }
+    },
+    {
+      "key": "295",
+      "source": "村",
+      "target": "弦",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35631251335144043
+      }
+    },
+    {
+      "key": "296",
+      "source": "村",
+      "target": "固",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35871657729148865
+      }
+    },
+    {
+      "key": "297",
+      "source": "村",
+      "target": "股",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37139320373535156
+      }
+    },
+    {
+      "key": "298",
+      "source": "村",
+      "target": "向",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39800772070884705
+      }
+    },
+    {
+      "key": "299",
+      "source": "村",
+      "target": "考",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3737752139568329
+      }
+    },
+    {
+      "key": "300",
+      "source": "村",
+      "target": "厚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.363118439912796
+      }
+    },
+    {
+      "key": "301",
+      "source": "村",
+      "target": "荒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3926958739757538
+      }
+    },
+    {
+      "key": "302",
+      "source": "村",
+      "target": "降",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37775638699531555
+      }
+    },
+    {
+      "key": "303",
+      "source": "村",
+      "target": "硬",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4378551244735718
+      }
+    },
+    {
+      "key": "304",
+      "source": "村",
+      "target": "刻",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35063761472702026
+      }
+    },
+    {
+      "key": "305",
+      "source": "村",
+      "target": "今",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3901228904724121
+      }
+    },
+    {
+      "key": "306",
+      "source": "村",
+      "target": "唆",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.390247106552124
+      }
+    },
+    {
+      "key": "307",
+      "source": "村",
+      "target": "採",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3574816584587097
+      }
+    },
+    {
+      "key": "308",
+      "source": "村",
+      "target": "済",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4094197750091553
+      }
+    },
+    {
+      "key": "309",
+      "source": "村",
+      "target": "搾",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37696918845176697
+      }
+    },
+    {
+      "key": "310",
+      "source": "村",
+      "target": "参",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36687424778938293
+      }
+    },
+    {
+      "key": "311",
+      "source": "村",
+      "target": "惨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4001993238925934
+      }
+    },
+    {
+      "key": "312",
+      "source": "村",
+      "target": "散",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3596026301383972
+      }
+    },
+    {
+      "key": "313",
+      "source": "村",
+      "target": "志",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3772032558917999
+      }
+    },
+    {
+      "key": "314",
+      "source": "村",
+      "target": "次",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3507395088672638
+      }
+    },
+    {
+      "key": "315",
+      "source": "村",
+      "target": "治",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36250078678131104
+      }
+    },
+    {
+      "key": "316",
+      "source": "村",
+      "target": "失",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3967273235321045
+      }
+    },
+    {
+      "key": "317",
+      "source": "村",
+      "target": "執",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35762593150138855
+      }
+    },
+    {
+      "key": "318",
+      "source": "村",
+      "target": "実",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3874504268169403
+      }
+    },
+    {
+      "key": "319",
+      "source": "村",
+      "target": "弱",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3818741738796234
+      }
+    },
+    {
+      "key": "320",
+      "source": "村",
+      "target": "手",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3877892792224884
+      }
+    },
+    {
+      "key": "321",
+      "source": "村",
+      "target": "守",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4017224609851837
+      }
+    },
+    {
+      "key": "322",
+      "source": "村",
+      "target": "取",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3596014082431793
+      }
+    },
+    {
+      "key": "323",
+      "source": "村",
+      "target": "趣",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3926178216934204
+      }
+    },
+    {
+      "key": "324",
+      "source": "村",
+      "target": "醜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35762372612953186
+      }
+    },
+    {
+      "key": "325",
+      "source": "村",
+      "target": "柔",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4150742292404175
+      }
+    },
+    {
+      "key": "326",
+      "source": "村",
+      "target": "出",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35549452900886536
+      }
+    },
+    {
+      "key": "327",
+      "source": "村",
+      "target": "巡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39606115221977234
+      }
+    },
+    {
+      "key": "328",
+      "source": "村",
+      "target": "盾",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3764844834804535
+      }
+    },
+    {
+      "key": "329",
+      "source": "村",
+      "target": "上",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3676328957080841
+      }
+    },
+    {
+      "key": "330",
+      "source": "村",
+      "target": "情",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4013117849826813
+      }
+    },
+    {
+      "key": "331",
+      "source": "村",
+      "target": "心",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.41126710176467896
+      }
+    },
+    {
+      "key": "332",
+      "source": "村",
+      "target": "身",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35483884811401367
+      }
+    },
+    {
+      "key": "333",
+      "source": "村",
+      "target": "振",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3532004952430725
+      }
+    },
+    {
+      "key": "334",
+      "source": "村",
+      "target": "震",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36653932929039
+      }
+    },
+    {
+      "key": "335",
+      "source": "村",
+      "target": "吹",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3685176372528076
+      }
+    },
+    {
+      "key": "336",
+      "source": "村",
+      "target": "垂",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.375133752822876
+      }
+    },
+    {
+      "key": "337",
+      "source": "村",
+      "target": "粋",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3647290766239166
+      }
+    },
+    {
+      "key": "338",
+      "source": "村",
+      "target": "数",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39614054560661316
+      }
+    },
+    {
+      "key": "339",
+      "source": "村",
+      "target": "正",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.388105183839798
+      }
+    },
+    {
+      "key": "340",
+      "source": "村",
+      "target": "誠",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37522682547569275
+      }
+    },
+    {
+      "key": "341",
+      "source": "村",
+      "target": "静",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3535689115524292
+      }
+    },
+    {
+      "key": "342",
+      "source": "村",
+      "target": "責",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3581995964050293
+      }
+    },
+    {
+      "key": "343",
+      "source": "村",
+      "target": "跡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3635282516479492
+      }
+    },
+    {
+      "key": "344",
+      "source": "村",
+      "target": "拙",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35661581158638
+      }
+    },
+    {
+      "key": "345",
+      "source": "村",
+      "target": "説",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3573130667209625
+      }
+    },
+    {
+      "key": "346",
+      "source": "村",
+      "target": "浅",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3633173108100891
+      }
+    },
+    {
+      "key": "347",
+      "source": "村",
+      "target": "洗",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35520297288894653
+      }
+    },
+    {
+      "key": "348",
+      "source": "村",
+      "target": "潜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39120349287986755
+      }
+    },
+    {
+      "key": "349",
+      "source": "村",
+      "target": "善",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35491445660591125
+      }
+    },
+    {
+      "key": "350",
+      "source": "村",
+      "target": "粗",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3937314450740814
+      }
+    },
+    {
+      "key": "351",
+      "source": "村",
+      "target": "早",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4509774446487427
+      }
+    },
+    {
+      "key": "352",
+      "source": "村",
+      "target": "爽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39824438095092773
+      }
+    },
+    {
+      "key": "353",
+      "source": "村",
+      "target": "促",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38703152537345886
+      }
+    },
+    {
+      "key": "354",
+      "source": "村",
+      "target": "他",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36847442388534546
+      }
+    },
+    {
+      "key": "355",
+      "source": "村",
+      "target": "体",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3923282027244568
+      }
+    },
+    {
+      "key": "356",
+      "source": "村",
+      "target": "大",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37651172280311584
+      }
+    },
+    {
+      "key": "357",
+      "source": "村",
+      "target": "奪",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39725908637046814
+      }
+    },
+    {
+      "key": "358",
+      "source": "村",
+      "target": "探",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3740704357624054
+      }
+    },
+    {
+      "key": "359",
+      "source": "村",
+      "target": "淡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37058132886886597
+      }
+    },
+    {
+      "key": "360",
+      "source": "村",
+      "target": "短",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3573266267776489
+      }
+    },
+    {
+      "key": "361",
+      "source": "村",
+      "target": "断",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36816146969795227
+      }
+    },
+    {
+      "key": "362",
+      "source": "村",
+      "target": "致",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3629169762134552
+      }
+    },
+    {
+      "key": "363",
+      "source": "村",
+      "target": "注",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3972148895263672
+      }
+    },
+    {
+      "key": "364",
+      "source": "村",
+      "target": "懲",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36369240283966064
+      }
+    },
+    {
+      "key": "365",
+      "source": "村",
+      "target": "直",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3656398355960846
+      }
+    },
+    {
+      "key": "366",
+      "source": "村",
+      "target": "締",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3952952027320862
+      }
+    },
+    {
+      "key": "367",
+      "source": "村",
+      "target": "天",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3858194053173065
+      }
+    },
+    {
+      "key": "368",
+      "source": "村",
+      "target": "塗",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36589354276657104
+      }
+    },
+    {
+      "key": "369",
+      "source": "村",
+      "target": "土",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3719158172607422
+      }
+    },
+    {
+      "key": "370",
+      "source": "村",
+      "target": "灯",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3517768979072571
+      }
+    },
+    {
+      "key": "371",
+      "source": "村",
+      "target": "当",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4419282078742981
+      }
+    },
+    {
+      "key": "372",
+      "source": "村",
+      "target": "唐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3704894781112671
+      }
+    },
+    {
+      "key": "373",
+      "source": "村",
+      "target": "同",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37059205770492554
+      }
+    },
+    {
+      "key": "374",
+      "source": "村",
+      "target": "動",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39299795031547546
+      }
+    },
+    {
+      "key": "375",
+      "source": "村",
+      "target": "鈍",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3606761395931244
+      }
+    },
+    {
+      "key": "376",
+      "source": "村",
+      "target": "難",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3632458448410034
+      }
+    },
+    {
+      "key": "377",
+      "source": "村",
+      "target": "入",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3517228364944458
+      }
+    },
+    {
+      "key": "378",
+      "source": "村",
+      "target": "熱",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.41452547907829285
+      }
+    },
+    {
+      "key": "379",
+      "source": "村",
+      "target": "破",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3751361668109894
+      }
+    },
+    {
+      "key": "380",
+      "source": "村",
+      "target": "廃",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4105868339538574
+      }
+    },
+    {
+      "key": "381",
+      "source": "村",
+      "target": "迫",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3740735948085785
+      }
+    },
+    {
+      "key": "382",
+      "source": "村",
+      "target": "抜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3594508469104767
+      }
+    },
+    {
+      "key": "383",
+      "source": "村",
+      "target": "反",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.40056976675987244
+      }
+    },
+    {
+      "key": "384",
+      "source": "村",
+      "target": "板",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36657366156578064
+      }
+    },
+    {
+      "key": "385",
+      "source": "村",
+      "target": "皮",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35605573654174805
+      }
+    },
+    {
+      "key": "386",
+      "source": "村",
+      "target": "否",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35986706614494324
+      }
+    },
+    {
+      "key": "387",
+      "source": "村",
+      "target": "卑",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36934900283813477
+      }
+    },
+    {
+      "key": "388",
+      "source": "村",
+      "target": "俵",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3610582947731018
+      }
+    },
+    {
+      "key": "389",
+      "source": "村",
+      "target": "品",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37341681122779846
+      }
+    },
+    {
+      "key": "390",
+      "source": "村",
+      "target": "浮",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3701580762863159
+      }
+    },
+    {
+      "key": "391",
+      "source": "村",
+      "target": "腐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38442280888557434
+      }
+    },
+    {
+      "key": "392",
+      "source": "村",
+      "target": "舞",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3505851924419403
+      }
+    },
+    {
+      "key": "393",
+      "source": "村",
+      "target": "風",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38407930731773376
+      }
+    },
+    {
+      "key": "394",
+      "source": "村",
+      "target": "物",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3736412823200226
+      }
+    },
+    {
+      "key": "395",
+      "source": "村",
+      "target": "憤",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37072867155075073
+      }
+    },
+    {
+      "key": "396",
+      "source": "村",
+      "target": "聞",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3726946711540222
+      }
+    },
+    {
+      "key": "397",
+      "source": "村",
+      "target": "壁",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3788732588291168
+      }
+    },
+    {
+      "key": "398",
+      "source": "村",
+      "target": "変",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3760000467300415
+      }
+    },
+    {
+      "key": "399",
+      "source": "村",
+      "target": "方",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37753111124038696
+      }
+    },
+    {
+      "key": "400",
+      "source": "村",
+      "target": "亡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3676133453845978
+      }
+    },
+    {
+      "key": "401",
+      "source": "村",
+      "target": "乏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37194567918777466
+      }
+    },
+    {
+      "key": "402",
+      "source": "村",
+      "target": "傍",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3699248731136322
+      }
+    },
+    {
+      "key": "403",
+      "source": "村",
+      "target": "無",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3770068883895874
+      }
+    },
+    {
+      "key": "404",
+      "source": "村",
+      "target": "夢",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3922823369503021
+      }
+    },
+    {
+      "key": "405",
+      "source": "村",
+      "target": "命",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35551801323890686
+      }
+    },
+    {
+      "key": "406",
+      "source": "村",
+      "target": "癒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35650894045829773
+      }
+    },
+    {
+      "key": "407",
+      "source": "村",
+      "target": "優",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37009096145629883
+      }
+    },
+    {
+      "key": "408",
+      "source": "村",
+      "target": "余",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37084755301475525
+      }
+    },
+    {
+      "key": "409",
+      "source": "村",
+      "target": "要",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3928254246711731
+      }
+    },
+    {
+      "key": "410",
+      "source": "村",
+      "target": "様",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3680087625980377
+      }
+    },
+    {
+      "key": "411",
+      "source": "村",
+      "target": "浴",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3666904866695404
+      }
+    },
+    {
+      "key": "412",
+      "source": "村",
+      "target": "裸",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38525155186653137
+      }
+    },
+    {
+      "key": "413",
+      "source": "村",
+      "target": "絡",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36978206038475037
+      }
+    },
+    {
+      "key": "414",
+      "source": "村",
+      "target": "落",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36858755350112915
+      }
+    },
+    {
+      "key": "415",
+      "source": "村",
+      "target": "竜",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.38270139694213867
+      }
+    },
+    {
+      "key": "416",
+      "source": "村",
+      "target": "輪",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35397642850875854
+      }
+    },
+    {
+      "key": "417",
+      "source": "村",
+      "target": "臨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3596876263618469
+      }
+    },
+    {
+      "key": "418",
+      "source": "村",
+      "target": "練",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.4026730954647064
+      }
+    },
+    {
+      "key": "419",
+      "source": "村",
+      "target": "漏",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3710024654865265
+      }
+    },
+    {
+      "key": "420",
+      "source": "艶",
+      "target": "湖",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3624953329563141
+      }
+    },
+    {
+      "key": "421",
+      "source": "艶",
+      "target": "車",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35991594195365906
+      }
+    },
+    {
+      "key": "422",
+      "source": "湖",
+      "target": "器",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3545852303504944
+      }
+    },
+    {
+      "key": "423",
+      "source": "湖",
+      "target": "急",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37088194489479065
+      }
+    },
+    {
+      "key": "424",
+      "source": "湖",
+      "target": "挟",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3561454117298126
+      }
+    },
+    {
+      "key": "425",
+      "source": "湖",
+      "target": "恐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37198367714881897
+      }
+    },
+    {
+      "key": "426",
+      "source": "湖",
+      "target": "驚",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3639826774597168
+      }
+    },
+    {
+      "key": "427",
+      "source": "湖",
+      "target": "空",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3626782298088074
+      }
+    },
+    {
+      "key": "428",
+      "source": "湖",
+      "target": "堅",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3698533773422241
+      }
+    },
+    {
+      "key": "429",
+      "source": "湖",
+      "target": "硬",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3698533773422241
+      }
+    },
+    {
+      "key": "430",
+      "source": "湖",
+      "target": "今",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35840699076652527
+      }
+    },
+    {
+      "key": "431",
+      "source": "湖",
+      "target": "採",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3526214063167572
+      }
+    },
+    {
+      "key": "432",
+      "source": "湖",
+      "target": "済",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3664305508136749
+      }
+    },
+    {
+      "key": "433",
+      "source": "湖",
+      "target": "志",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3523149788379669
+      }
+    },
+    {
+      "key": "434",
+      "source": "湖",
+      "target": "執",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3528108298778534
+      }
+    },
+    {
+      "key": "435",
+      "source": "湖",
+      "target": "実",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3530435562133789
+      }
+    },
+    {
+      "key": "436",
+      "source": "湖",
+      "target": "守",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35366761684417725
+      }
+    },
+    {
+      "key": "437",
+      "source": "湖",
+      "target": "取",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35396111011505127
+      }
+    },
+    {
+      "key": "438",
+      "source": "湖",
+      "target": "情",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3615258038043976
+      }
+    },
+    {
+      "key": "439",
+      "source": "湖",
+      "target": "心",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37318387627601624
+      }
+    },
+    {
+      "key": "440",
+      "source": "湖",
+      "target": "早",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.39337000250816345
+      }
+    },
+    {
+      "key": "441",
+      "source": "湖",
+      "target": "騒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3504013121128082
+      }
+    },
+    {
+      "key": "442",
+      "source": "湖",
+      "target": "当",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3889959454536438
+      }
+    },
+    {
+      "key": "443",
+      "source": "湖",
+      "target": "腐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36224961280822754
+      }
+    },
+    {
+      "key": "444",
+      "source": "湖",
+      "target": "聞",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3653389513492584
+      }
+    },
+    {
+      "key": "445",
+      "source": "湖",
+      "target": "夢",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3598214089870453
+      }
+    },
+    {
+      "key": "446",
+      "source": "湖",
+      "target": "臨",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35115915536880493
+      }
+    },
+    {
+      "key": "447",
+      "source": "湖",
+      "target": "練",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.37132418155670166
+      }
+    },
+    {
+      "key": "448",
+      "source": "車",
+      "target": "戒",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3563961684703827
+      }
+    },
+    {
+      "key": "449",
+      "source": "車",
+      "target": "急",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3647449016571045
+      }
+    },
+    {
+      "key": "450",
+      "source": "車",
+      "target": "恐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3527598977088928
+      }
+    },
+    {
+      "key": "451",
+      "source": "車",
+      "target": "空",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3636147975921631
+      }
+    },
+    {
+      "key": "452",
+      "source": "車",
+      "target": "軽",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35595157742500305
+      }
+    },
+    {
+      "key": "453",
+      "source": "車",
+      "target": "堅",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3735886514186859
+      }
+    },
+    {
+      "key": "454",
+      "source": "車",
+      "target": "考",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3506603538990021
+      }
+    },
+    {
+      "key": "455",
+      "source": "車",
+      "target": "硬",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3735886514186859
+      }
+    },
+    {
+      "key": "456",
+      "source": "車",
+      "target": "実",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3524009883403778
+      }
+    },
+    {
+      "key": "457",
+      "source": "車",
+      "target": "柔",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3557233512401581
+      }
+    },
+    {
+      "key": "458",
+      "source": "車",
+      "target": "情",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3723396360874176
+      }
+    },
+    {
+      "key": "459",
+      "source": "車",
+      "target": "心",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3666350841522217
+      }
+    },
+    {
+      "key": "460",
+      "source": "車",
+      "target": "早",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3576379120349884
+      }
+    },
+    {
+      "key": "461",
+      "source": "車",
+      "target": "天",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3702305853366852
+      }
+    },
+    {
+      "key": "462",
+      "source": "車",
+      "target": "当",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36355939507484436
+      }
+    },
+    {
+      "key": "463",
+      "source": "車",
+      "target": "唐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3510607182979584
+      }
+    },
+    {
+      "key": "464",
+      "source": "車",
+      "target": "熱",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36472249031066895
+      }
+    },
+    {
+      "key": "465",
+      "source": "車",
+      "target": "腐",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3511141836643219
+      }
+    },
+    {
+      "key": "466",
+      "source": "会",
+      "target": "慌",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3621142506599426
+      }
+    },
+    {
+      "key": "467",
+      "source": "恐",
+      "target": "稲",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36103829741477966
+      }
+    },
+    {
+      "key": "468",
+      "source": "稲",
+      "target": "早",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.357147753238678
+      }
+    },
+    {
+      "key": "469",
+      "source": "稲",
+      "target": "当",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36094552278518677
+      }
+    },
+    {
+      "key": "470",
+      "source": "今",
+      "target": "南",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3552311956882477
+      }
+    },
+    {
+      "key": "471",
+      "source": "今",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35956865549087524
+      }
+    },
+    {
+      "key": "472",
+      "source": "採",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3557712137699127
+      }
+    },
+    {
+      "key": "473",
+      "source": "執",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.356006920337677
+      }
+    },
+    {
+      "key": "474",
+      "source": "取",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35583826899528503
+      }
+    },
+    {
+      "key": "475",
+      "source": "早",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3578009307384491
+      }
+    },
+    {
+      "key": "476",
+      "source": "早",
+      "target": "隣",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3538072109222412
+      }
+    },
+    {
+      "key": "477",
+      "source": "騒",
+      "target": "南",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3679392635822296
+      }
+    },
+    {
+      "key": "478",
+      "source": "騒",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3734973669052124
+      }
+    },
+    {
+      "key": "479",
+      "source": "当",
+      "target": "南",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.354427695274353
+      }
+    },
+    {
+      "key": "480",
+      "source": "当",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.363905668258667
+      }
+    },
+    {
+      "key": "481",
+      "source": "当",
+      "target": "隣",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3578818142414093
+      }
+    },
+    {
+      "key": "482",
+      "source": "聞",
+      "target": "南",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35177481174468994
+      }
+    },
+    {
+      "key": "483",
+      "source": "聞",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.36289381980895996
+      }
+    },
+    {
+      "key": "484",
+      "source": "荒",
+      "target": "北",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35082435607910156
+      }
+    },
+    {
+      "key": "485",
+      "source": "北",
+      "target": "他",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3632385730743408
+      }
+    },
+    {
+      "key": "486",
+      "source": "北",
+      "target": "柄",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.35234808921813965
+      }
+    },
+    {
+      "key": "487",
+      "source": "南",
+      "target": "他",
+      "attributes": {
+        "color": "#050505",
+        "weight": 0.3604523837566376
+      }
+    }
+  ]
+}
